@@ -1,0 +1,1 @@
+{"0": "Partial overlap", "1": "Too small", "2": "Total overlap", "3": "Decentered"}
